@@ -1,0 +1,32 @@
+p{
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+span{
+    color: white;
+    font-size: 60px;
+}
+button{
+    font-size: 30px;
+    color: white;
+    background: grey;
+}
+button:hover{
+    background-color: lightgrey;
+    color: black;
+}
+.startButton{
+
+}
+button{
+
+}
+body{
+    background-color: black;
+}
+#div1{
+    margin-top: 20px;
+    color: white;
+}
