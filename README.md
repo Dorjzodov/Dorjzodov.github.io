@@ -1,1 +1,0 @@
-# Dorjzodov.github.io
