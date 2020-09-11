@@ -1,11 +1,13 @@
 body {
-    display: flex;
+    font-size: 30px;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     background-color: lightblue;
 }
 
-h1 {
-    font-size: 70px;
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
